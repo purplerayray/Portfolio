@@ -6,7 +6,7 @@
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![alt text](aditya-rathod--I1AgAq3PCQ-unsplash (1).jpg)
+![alt text](aditya-rathod--I1AgAq3PCQ-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@adityareds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Rathod</a> on <a href="https://unsplash.com/s/photos/car-park?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
