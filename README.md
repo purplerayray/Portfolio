@@ -1,5 +1,5 @@
 # Mary-Ann Egbudom
-*Data Engineer*
+*Data Engineer | Python Developer*
 
 # Education
 * Trainee (Data Science), *New Horizons Institute*, 2021-2022
