@@ -5,6 +5,7 @@
 
 - LinkedIn - [Mary-Ann Egbudom](https://www.linkedin.com/in/mary-ann-egbudom-9017b3109)
 - Twitter - [@Rianne_egb](https://twitter.com/Rianne_egb)
+- GitHub - [@purplerayray](https://github.com/purplerayray)
 - Email Address - [ma.egbudom@gmail.com](mailto:ma.egbudom@gmail.com)
 
 # Education
