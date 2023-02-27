@@ -15,7 +15,7 @@
 
 # Projects
 ## [Population Analysis](https://github.com/purplerayray/census-analysis)
-![Population Analysis](world_map.jpg)
+![Population Analysis](world_map.png)
 
 > Image by <a href="https://pixabay.com/users/pfüderi-199315/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1974699">Pfüderi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1974699">Pixabay</a>
 
