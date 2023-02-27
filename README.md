@@ -15,9 +15,9 @@
 
 # Projects
 ## [Customer Data Processing Project](https://github.com/purplerayray/customer-data-processing-project)
-![Automatic Car Parking System](graph_image.jpg)
+![Customer Data Processing Project](graph_image.jpg)
 
-> Photo by <a href="Image by <a href="https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Mediamodifier</a> on <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Pixabay</a>
+> Photo by <a href="https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Mediamodifier</a> on <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Pixabay</a>
 
 A customer data processing task using Python to help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
 
