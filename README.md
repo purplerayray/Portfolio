@@ -14,10 +14,29 @@
 * Bachelors of Engineering (Computer Engineering), *Covenant University*, 2014-2019
 
 # Projects
+## [Population Analysis](https://github.com/purplerayray/census-analysis)
+![Population Analysis](world_map.jpg)
+
+> Image by <a href="https://pixabay.com/users/pfüderi-199315/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1974699">Pfüderi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1974699">Pixabay</a>
+
+Population analysis that reviews population demographic analysis, occupational and religious trends, predicted growth rate, and housing density which can help governments and organizations gain valuable insights into population trends, informing policy decisions and improve overall quality of life.
+
+#### Technologies:
+
+- Python
+- Jupyter Notebook
+- Excel
+- Matplotlib
+- Seaborn
+
+<br/>
+
+---
+
 ## [Customer Data Processing Project](https://github.com/purplerayray/customer-data-processing-project)
 ![Customer Data Processing Project](graph_image.jpg)
 
-> Photo by <a href="https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Mediamodifier</a> on <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Pixabay</a>
+> Image by <a href="https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Mediamodifier</a> on <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Pixabay</a>
 
 A customer data processing task using Python to help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
 
