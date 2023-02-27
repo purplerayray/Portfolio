@@ -33,6 +33,26 @@ Population analysis that reviews population demographic analysis, occupational a
 
 ---
 
+## [Prediction of CO2 Emission of Vehicles](https://github.com/purplerayray/predicting-co2-emission)
+![Prediction of CO2 Emission of Vehicles](co2.jpg)
+
+> Image by <a href="https://pixabay.com/users/digifly840-728555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=613319">digifly840</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=613319">Pixabay</a>
+
+This project follows the steps and methodology of predicting CO2 emissions. The features used in training the model were derived from the fuel consumption ratings data from 2010 to 2014 in Canada. Additionally, the report also explores the features that best classify the vehicles in the data set.
+
+#### Technologies:
+
+- Python
+- Jupyter Notebook
+- Excel
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+<br/>
+
+---
+
 ## [Customer Data Processing Project](https://github.com/purplerayray/customer-data-processing-project)
 ![Customer Data Processing Project](graph_image.jpg)
 
