@@ -33,6 +33,27 @@ Population analysis that reviews population demographic analysis, occupational a
 
 ---
 
+## [Emergency Vehicle Detection Using Convolutional Neural Networks](https://github.com/purplerayray/cnn-vehicle-classification)
+![Emergency Vehicle Detection Using Convolutional Neural Networks](cnn.jpg)
+
+> Photo by <a href="https://unsplash.com/@yassine_khalfalli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yassine Khalfalli</a> on <a href="https://unsplash.com/photos/YJitNvOj7m0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Vehicle images are classified as being either an emergency vehicle or a nonemergency vehicle. 
+
+#### Technologies:
+
+- Python
+- Jupyter Notebook
+- Excel
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Tensorflow
+
+<br/>
+
+---
+
 ## [Prediction of CO2 Emission of Vehicles](https://github.com/purplerayray/predicting-co2-emission)
 ![Prediction of CO2 Emission of Vehicles](co2.jpg)
 
