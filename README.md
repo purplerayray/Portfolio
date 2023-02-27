@@ -70,7 +70,7 @@ This is a desktop based (client/server) Automatic Car Parking system that assign
 ---
 
 ## [Bagels Game](https://github.com/purplerayray/bagels-game-repo)
-![Bagels Game](bagels_homepage.png)
+![Bagels Game](bagels.jpg)
 
 > Bagels is a deductive logic game by Al Sweigart al@inventwithpython.com. <br/>
 
