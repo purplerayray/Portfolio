@@ -9,10 +9,29 @@
 - Email Address - [ma.egbudom@gmail.com](mailto:ma.egbudom@gmail.com)
 
 # Education
-* Trainee (Data Science), *New Horizons Institute*, 2021-2022
+* Msc Data Science and Artificial Intelligence, *University of Hull*, 2022-2023
+* Trainee (Python Programming), *New Horizons Institute*, 2021-2022
 * Bachelors of Engineering (Computer Engineering), *Covenant University*, 2014-2019
 
 # Projects
+## [Customer Data Processing Project](https://github.com/purplerayray/customer-data-processing-project)
+![Automatic Car Parking System](graph_image.jpg)
+
+> Photo by <a href="Image by <a href="https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Mediamodifier</a> on <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3033203">Pixabay</a>
+
+A customer data processing task using Python to help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
+
+#### Technologies:
+
+- Python
+- Jupyter Notebook
+- Excel
+- JSON
+
+<br/>
+
+---
+
 ## [Automatic Car Parking System (Desktop Application)](https://github.com/purplerayray/automatic-car-parking-system)
 ![Automatic Car Parking System](aditya-rathod--I1AgAq3PCQ-unsplash.jpg)
 
