@@ -5,8 +5,9 @@
 
 - LinkedIn - [Mary-Ann Egbudom](https://www.linkedin.com/in/mary-ann-egbudom-9017b3109)
 - Twitter - [@Rianne_egb](https://twitter.com/Rianne_egb)
-- GitHub - [@purplerayray](https://github.com/purplerayray)
+- Tableau Public - [Mary-Ann Egbudom](https://public.tableau.com/app/profile/mary.ann.egb)
 - Email Address - [ma.egbudom@gmail.com](mailto:ma.egbudom@gmail.com)
+
 
 # Education
 * Msc Data Science and Artificial Intelligence, *University of Hull*, 2022-2023
